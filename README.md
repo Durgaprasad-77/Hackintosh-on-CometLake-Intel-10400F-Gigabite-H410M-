@@ -1,0 +1,1 @@
+# Hackintosh-on-CometLake-Intel-10400F-Gigabite-H410M-
